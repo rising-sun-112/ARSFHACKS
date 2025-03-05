@@ -1,0 +1,8 @@
+opencv-python
+numpy
+face_recognition
+pyaudio
+wave
+webrtcvad
+whisper
+pyttsx3
