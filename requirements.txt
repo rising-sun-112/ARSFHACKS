@@ -1,8 +1,9 @@
 opencv-python
 numpy
-face_recognition
+face-recognition
 pyaudio
 wave
 webrtcvad
 whisper
 pyttsx3
+picamera2
